@@ -26,13 +26,18 @@ Run command in repo folder: pip install -r requirements.txt
 
 ##Kaggle dataset links
 https://www.kaggle.com/c/digit-recognizer
+
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 https://www.kaggle.com/c/word2vec-nlp-tutorial
+
 https://www.kaggle.com/c/titanic
 
 
 
 ##Kaggle notebook links
 https://www.kaggle.com/nlprunner/digit-recognizer/digit-recognizer-with-scikit-learn/
+
 https://www.kaggle.com/nlprunner/house-prices-advanced-regression-techniques/housing-prices-prediction-with-scikit-learn/
+
 https://www.kaggle.com/nlprunner/titanic/titanic-practice-with-scikit-learn/
